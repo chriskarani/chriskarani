@@ -8,7 +8,7 @@
 - 📫 How to reach me: chrisbkarani@gmail.com
 - 😄 Pronouns: he/his
 - 👯 I’m looking to collaborate on Server-Side Swift Projects
-- 💬 Ask me about 
+- 💬 Ask me about: Labradors 🐕
 
 [![Chris's github stats](https://github-readme-stats.vercel.app/api?username=chriskarani)](https://github.com/anuraghazra/github-readme-stats)
 
